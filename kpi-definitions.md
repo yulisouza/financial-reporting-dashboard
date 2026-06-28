@@ -160,7 +160,7 @@ Financial Autonomy (months) = Total Reserve ÷ Operational Cost
 
 **Display:** Rounded to 1 decimal place.
 
-**Current value (June 2026):** R$ 9,016 ÷ R$ 4,415 = **2.0 months**
+**Current value (June 2026):** R$ 14,208 ÷ R$ 4,415 = **3.2 months**
 
 **Scope:** Point-in-time numerator (Total Reserve at month-end) divided by rolling average denominator (Operational Cost over last 6 months).
 
@@ -168,7 +168,7 @@ Financial Autonomy (months) = Total Reserve ÷ Operational Cost
 
 **Business rationale:** This is the primary risk indicator in the system. It answers the question leadership needs to ask: *"If all income stopped today, how long could we keep operating?"*
 
-A value of 2.0 months means the organization has a moderate buffer — enough to absorb one difficult month and begin responding, but not enough to sustain a prolonged income disruption. Most nonprofit financial frameworks recommend a minimum of 3–6 months of operational reserve.
+A value of 3.2 months means the organization has crossed the lower threshold of financial resilience — above the critical 3-month floor that nonprofit financial frameworks typically recommend as a minimum. The improvement from 2.0 months (January 2026) to 3.2 months reflects a period of revenue growth outpacing operational costs.
 
 **Design decision:** Financial Autonomy was built from a custom definition of operational cost rather than total expenses. Using total expenses as the denominator would include discretionary spending (Social Action, Events), which overstates the true survival threshold. The narrower denominator produces a more accurate picture of resilience.
 
